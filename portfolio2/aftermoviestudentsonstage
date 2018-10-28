@@ -48,34 +48,6 @@
 <!-- header -->
 
 <header id="header" class="header">
-  <div class="container-fluid">
-    <hgroup> 
-      
-      <!-- logo -->
-      
-      <h1> <a color="white"></a> </h1>
-      
-      <!-- logo --> 
-      
-      <!-- nav -->
-      
-      <nav>
-        <div class="menu-expanded">
-          <div class="nav-icon">
-            <div id="menu" class="menu"></div>
-            <p>Return</p>
-          </div>
-        </div>
-      </nav>
-      
-      <!-- nav --> 
-      
-    </hgroup>
-  </div>
-</header>
-
-<!-- header -->
-
 <main class="main-wrapper" id="container"> 
   
   <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/293814540?autoplay=1&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
@@ -83,6 +55,11 @@
   
   
 </main>
+</header>
+
+<!-- header -->
+
+
 
 <!-- Image Gallery --> 
 
